@@ -5,5 +5,10 @@ span{ color: $marron;
 @media (max-width: 750px){
     #intro {
         width: 90% !important;
+        
+    }
+    .servicio-fila{
+        width: 100% !important;
+        text-align: center;
     }
 }

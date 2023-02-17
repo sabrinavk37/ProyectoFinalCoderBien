@@ -50,7 +50,7 @@
   position: relative;
   top: 50%; }
 
-.container {
+.container-footer {
   display: grid;
   background-color: #FAEDCD;
   grid-template-columns: 1fr 1fr 1fr;
@@ -77,4 +77,7 @@ span {
 
 @media (max-width: 750px) {
   #intro {
-    width: 90% !important; } }
+    width: 90% !important; }
+  .servicio-fila {
+    width: 100% !important;
+    text-align: center; } }
