@@ -29,7 +29,7 @@
   outline-color: #E9EDC9; }
 
 #menu button {
-  font-size: 18 px;
+  font-size: 18px;
   font-weight: bold; }
 
 #menu {
@@ -72,7 +72,7 @@
   background-color: bisque;
   border: 1px; }
 
-span {
+.span-index {
   color: #D4A373; }
 
 @media (max-width: 750px) {
