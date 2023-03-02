@@ -1,0 +1,18 @@
+.banner-hero2 {
+    background-image: url('https://plus.unsplash.com/premium_photo-1661476117266-e2588929ca1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80');
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    transition: height 3s;
+}
+
+.banner-hero2:hover {
+    height: 100vh;
+}
+
+.banner-hero2 {
+    text-align: center;
+    position: relative;
+    top: 50%;
+}
+
