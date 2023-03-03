@@ -1,20 +1,40 @@
-
-.div-suplementos{
+.div-suplementos {
     max-height: 1000px !important;
-    
-    justify-content: center;
-}
-.sup-img{
+
     justify-content: center;
 }
 
+.sup-img {
+    justify-content: center;
+}
+
+.secction-card {
+    height: 800px;
+    background-color: $marron;
+}
+
+.card-img,
+.card-img-bottom,
+.card-img-top {
+    max-width: 700px;
+}
+
+.card-img{
+    background-color: $marron;
+    transition: width 3s;
+    background-size: cover;
+    background-position: center;
 
 
+}
 
+.card-img:hover {
+    width: 800px;
 
+}
 
 // .container-info {  display: grid;
-    
+
 //     grid-template-columns: 1fr 1fr 1fr;
 //     grid-template-rows: 1fr 1fr 1fr 1fr;
 //     gap: 0px 0px;
@@ -25,29 +45,29 @@
 //       "box6 img1 box7"
 //       "box8 box9 box10";
 //   }
-  
+
 //   .box1 { grid-area: box1; }
-  
+
 //   .box2 { grid-area: box2; }
-  
+
 //   .box3 { grid-area: box3; }
-  
+
 //   .box4 { grid-area: box4; }
-  
+
 //   .box5 { grid-area: box5; }
-  
+
 //   .box6 { grid-area: box6; }
-  
+
 //   .box7 { grid-area: box7; }
-  
+
 //   .box8 { grid-area: box8; }
-  
+
 //   .box9 { grid-area: box9; }
-  
+
 //   .box10 { grid-area: box10; }
-  
+
 //   .img1 { grid-area: img1; }
-  
+
 // .img1{
 //     width: 0,5%;
 //     height: 0,5%;
