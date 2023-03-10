@@ -1,0 +1,32 @@
+@media (max-width: 750px) {
+    #intro {
+        width: 90% !important;
+
+    }
+
+    .servicio-fila {
+        width: 100% !important;
+        text-align: center;
+    }
+}
+
+
+@media (max-width:1200px){
+    #local{
+        flex-wrap: wrap;
+
+       
+    }
+    .wrapper{
+        width: 90%;
+        
+    }
+}
+
+@media (max-width:1200px){
+    #nutricion-img{
+        width: 80%;
+        align-items: center;
+
+    }
+}
