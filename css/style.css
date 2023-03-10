@@ -203,3 +203,7 @@
   #nutricion-img {
     width: 80%;
     align-items: center; } }
+
+@media (min-width: 768px) {
+  #section-products {
+    max-height: 60rem; } }
