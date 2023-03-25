@@ -12,7 +12,7 @@ while(continuar) {
     
     let planes
     do {
-        planes = parseInt (prompt("Desea agregar al carrito lo planes de.\n 1-Nutricion 2-Fitness 3-Spa 4-Mercado Saludable."))
+        planes = parseInt (prompt("Desea agregar al carrito el plan de.\n 1-Nutricion 2-Fitness 3-Spa 4-Mercado Saludable."))
     } while (isNaN(planes) || planes>=4 || planes<1)
     
     let planElegido 
