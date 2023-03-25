@@ -47,7 +47,7 @@ while(continuar) {
 
     
     if(continuar == false){
-        graciasPor = alert("Ya enviamos a tu email toda la informacion de tu plan. Que disfrutes este grande camino saludable.")
+        graciasPor = alert("Ya enviamos a tu email toda la informacion de tu plan. Que disfrutes este gran camino saludable.")
     }
 
 
